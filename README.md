@@ -9,3 +9,8 @@ The Jetson Nano developer kit which houses the Nano module, accessories, pinouts
 - Raspberry Pi Camera v2 ( Integrated by cloning https://github.com/JetsonHacksNano/CSI-Camera )
 - Power Source for Developer Kit
 - Keyboard, Mouse and Display Monitor with HDMI support
+
+# References
+1. Cao, Zhe, et al. "Realtime multi-person 2d pose estimation using part affinity fields." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017.
+
+2. Xiao, Bin, Haiping Wu, and Yichen Wei. "Simple baselines for human pose estimation and tracking." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
