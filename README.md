@@ -5,7 +5,7 @@ The Jetson Nano is a GPU-enabled edge computing platform for AI and deep learnin
 The Jetson Nano developer kit which houses the Nano module, accessories, pinouts, and ports is ready to use out of the box. It runs a customized Ubuntu 18.04 called Linux4Tegra for the Tegra series chips powering the Nvidia Jetson modules.
 
 # Required Components
--Jetson Nano Developer Kit
--Raspberry Pi Camera v2 ( Integrated by cloning https://github.com/JetsonHacksNano/CSI-Camera )
--Power Source for Developer Kit
--Keyboard, Mouse and Display Monitor with HDMI support
+- Jetson Nano Developer Kit
+- Raspberry Pi Camera v2 ( Integrated by cloning https://github.com/JetsonHacksNano/CSI-Camera )
+- Power Source for Developer Kit
+- Keyboard, Mouse and Display Monitor with HDMI support
