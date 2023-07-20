@@ -1,5 +1,7 @@
 # Hand Pose Estimation And Classification
 
+An innovative application designed to enhance user experience for both mute individuals and general users. It incorporates features such as volume control and real-time American Sign Language (ASL) translation. Leveraging the Jetson Nano for accelerated computation, the app ensures fast and seamless performance.
+
 The Jetson Nano is a GPU-enabled edge computing platform for AI and deep learning applications. It is powered by a 64-bit quad-core ARM-CortexA57 CPU with 4 GB RAM onboard. It has 128 core Nvidia Maxwell GPU dedicated to several AI and deep learning applications making it suitable for prototype development as well as production.
 
 The Jetson Nano developer kit which houses the Nano module, accessories, pinouts, and ports is ready to use out of the box. It runs a customized Ubuntu 18.04 called Linux4Tegra for the Tegra series chips powering the Nvidia Jetson modules.
